@@ -3,6 +3,6 @@
 using std::cout;
 
 int main() {
-    cout << "WOW\n;
+    cout << "WOW";
     return 0
-}
+;}
